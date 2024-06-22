@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689813565 source:c:\users\soumana dama\desktop\langaec projects\piano en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
